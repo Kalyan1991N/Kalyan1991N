@@ -1,1 +1,0 @@
-    engine.load(os.path.join(CURRENT_DIR, "qml", "main.qml"))
